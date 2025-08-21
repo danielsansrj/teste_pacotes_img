@@ -2,9 +2,10 @@
 
 Description. 
 The package processamento-imagens is used to:
+
 	- Plotar imagem
 
-	- 
+	
 
 ## Installation
 
@@ -25,4 +26,5 @@ basicao.plot()
 Daniel Sans
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
