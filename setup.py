@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="meu-datetime",
+    name="processamento-imagens",
     version="0.0.1",
     author="Daniel Sans Reppso da Silva",
     author_email="danielsansrj@gmail.com",
     description="Ferramentas para manipulação de datas e tempos",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/danielsansrj/teste_pacotes/tree/main/meu-date-time"
+    url= "https://github.com/danielsansrj/teste_pacotes_img"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
