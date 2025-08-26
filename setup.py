@@ -7,11 +7,11 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="22-processamento-imagens",
+    name="processsss",
     version="0.0.1",
     author="Daniel Sans Reppso da Silva",
     author_email="danielsansrj@gmail.com",
-    description="Ferramentas para manipulação de datas e tempos",
+    description="Ferramentas para plotar imagem",
     long_description=page_description,
     long_description_content_type="text/markdown",
     

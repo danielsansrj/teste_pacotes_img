@@ -1,7 +1,8 @@
 # package_name
 
 Description. 
-The package processamento-imagens is used to:
+The package processsss is used to:
+
 	- Plotar imagem
 
 	- 
@@ -11,14 +12,14 @@ The package processamento-imagens is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install processamento-imagens
+pip install processsss
 ```
 
 ## Usage
 
 ```python
-from processamento-imagens.processing import basicao
-basicao.plot()
+from processsss.processing import plot
+plot()
 ```
 
 ## Author

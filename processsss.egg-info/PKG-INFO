@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
-Name: 22-processamento-imagens
+Name: processsss
 Version: 0.0.1
-Summary: Ferramentas para manipulação de datas e tempos
+Summary: Ferramentas para plotar imagem
 Author: Daniel Sans Reppso da Silva
 Author-email: danielsansrj@gmail.com
 Requires-Python: >=3.8
@@ -18,7 +18,8 @@ Dynamic: summary
 # package_name
 
 Description. 
-The package processamento-imagens is used to:
+The package 22-processamento-imagens is used to:
+
 	- Plotar imagem
 
 	- 
@@ -28,13 +29,13 @@ The package processamento-imagens is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install processamento-imagens
+pip install processsss
 ```
 
 ## Usage
 
 ```python
-from processamento-imagens.processing import basicao
+from processsss.processing import plot
 basicao.plot()
 ```
 
